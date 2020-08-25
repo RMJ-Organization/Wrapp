@@ -34,11 +34,14 @@ background-color: #1a1a1a;
 color: black;
 background-color: cornflowerblue;
 }
-.dark:hover {
+/* .dark:hover {
 background-color: #1f1f1f;
 }
 .primary:hover {
 background-color: #6da3de;
+} */
+button:hover {
+background-opacity: 50%;
 }
 button:focus {
 border-style: inset;
