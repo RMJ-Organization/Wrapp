@@ -34,8 +34,11 @@ background-color: #1a1a1a;
 color: black;
 background-color: cornflowerblue;
 }
-button:hover {
-background-opacity: 50%;
+.dark:hover {
+background-color: #1b1b1b;
+}
+.primary:hover {
+background-color: #6da3de;
 }
 button:focus {
 border-style: inset;
