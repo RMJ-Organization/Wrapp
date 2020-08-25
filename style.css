@@ -1,0 +1,7 @@
+/* This will not be used as the main build, instead it will be used as the community build */
+* {
+font-family: arial;
+}
+body {
+background-color: #f0f0f0
+}
