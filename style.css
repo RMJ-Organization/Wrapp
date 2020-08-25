@@ -30,8 +30,12 @@ button {
 color: white;
 background-color: #1a1a1a;
 }
+.primary {
+color: black;
+background-color: cornflowerblue;
+}
 button:hover {
-background-color: #404040;
+background-opacity: 50%;
 }
 button:focus {
 border-style: inset;
