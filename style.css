@@ -31,7 +31,7 @@ color: white;
 background-color: #1a1a1a;
 }
 .primary {
-color: black;
+color: rgb(100, 149, 237);
 background-color: cornflowerblue;
 }
 button:hover {
